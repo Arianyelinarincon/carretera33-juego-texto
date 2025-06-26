@@ -2,7 +2,7 @@
 def juego():
     inventario = []
 
-    print("Noche cerrada. 03:33 AM. Estas conduciendo tras horas de viaje por una carretera principal de un pueblo extrano.")
+    print("Noche Oscura, 03:33 AM... Estas conduciendo tras horas de viaje por una carretera principal de un pueblo extrano.")
     print("Ves una GASOLINERA con una pizzeria abierta... Quieres ENTRAR o SEGUIR tu camino?")
     decision1 = input("> ").strip().lower()
 
